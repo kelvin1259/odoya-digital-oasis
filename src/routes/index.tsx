@@ -98,12 +98,8 @@ const PRATOS = [
   },
 ];
 
-const GALERIA = [
-  {
-    img: ambiente1,
-    alt: "Área externa do Bistrô Odoyá com mesas e plantas",
-    span: "row-span-2",
-  },
+const GALERIA =     
+
   {
     img: pescada,
     alt: "Pescada ao Molho de Camarão",
