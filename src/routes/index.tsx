@@ -2,18 +2,17 @@ import { createFileRoute } from "@tanstack/react-router";
 import { Instagram, MapPin, MessageCircle, Clock, Leaf, Star } from "lucide-react";
 import { SiteHeader } from "@/components/site-header";
 import { AVALIACOES, HORARIOS, NAV, RESTAURANTE } from "@/lib/odoya";
+ 
+import hero from "@/ativos/hero.jpg";
+import ambiente1 from "@/ativos/ambiente-1.jpg";
+import ambiente2 from "@/ativos/ambiente-2.jpg";
+import experiencia from "@/ativos/experiencia.jpg";
+import galeria1 from "@/ativos/galeria-1.jpg";
 
-import hero from "@/assets/hero.jpg";
-import ambiente1 from "@/assets/ambiente-1.jpg";
-import ambiente2 from "@/assets/ambiente-2.jpg";
-import experiencia from "@/assets/experiencia.jpg";
-import galeria1 from "@/assets/galeria-1.jpg";
-
-// Fotos reais dos pratos enviadas pelo Bistrô Odoyá
-import pescada from "@/assets/pescada-molho-camarao.jpg";
-import linguado from "@/assets/linguado-molho-camarao.jpg";
-import talharim from "@/assets/talharim-frutos-do-mar.jpg";
-import risoto from "@/assets/risoto-shimeji.jpg";
+import pescada from "@/ativos/pescada-molho-camarao.jpg";
+import linguado from "@/ativos/linguado-molho-camarao.jpg";
+import talharim from "@/ativos/talharim-frutos-do-mar.jpg";
+import risoto from "@/ativos/risoto-shimeji.jpg"; 
 
 const TITLE = "Bistrô Odoyá Maresias | Gastronomia em São Sebastião";
 const DESC =
