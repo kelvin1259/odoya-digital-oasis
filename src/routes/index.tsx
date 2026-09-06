@@ -98,7 +98,7 @@ const PRATOS = [
   },
 ];
 
-const GALERIA =     
+const GALERIA = [   
 
   {
     img: pescada,
